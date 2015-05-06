@@ -1,0 +1,2 @@
+# gootl
+Google-Outlook Synchronizer
